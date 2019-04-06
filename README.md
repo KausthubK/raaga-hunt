@@ -1,6 +1,12 @@
 # raaga-hunt
 A tool to identify raagas from recordings.
 
+## Collaborators
+Kausthub Krishnamurthy
+Shivani Revuru
+Siva Mahadevan
+Srihari Sritharan
+
 ## To Do:
 1. Identify an approach to doing this properly
   1.1 identify appropriate classification network architectures
